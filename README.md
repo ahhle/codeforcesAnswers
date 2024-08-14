@@ -1,0 +1,1 @@
+These are just some of my answers from competitive programming. I am still new to this so some of my solutions are SUPER idiomatic. I will leave some comments about how some of my code could have been more concise and readable.
